@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luongha79
+- 👀 I’m interested in  Data sciences and Marketing
+- 🌱 I’m currently learning r
+- 💞️ I’m looking to collaborate on Data Analytics for Marketing
+- 📫 reach me at: lvhmarketing@gmail.com
